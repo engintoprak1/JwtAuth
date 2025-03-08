@@ -1,23 +1,23 @@
 JWT Authentication API
 
-1️⃣ Core Architecture & Setup
-✅ Project Initialization
-✅ Clean Architecture
-✅ Entity Framework Core & SQL Server
+1️⃣ Core Architecture & Setup <br>
+✅ Project Initialization<br>
+✅ Clean Architecture<br>
+✅ Entity Framework Core & SQL Server<br>
 
-2️⃣ User Management & Authentication
-✅ Register
-✅ Login
-✅ Create JWT Token
-✅ Refresh Token Mechanism
+2️⃣ User Management & Authentication<br>
+✅ Register<br>
+✅ Login<br>
+✅ Create JWT Token<br>
+✅ Refresh Token Mechanism<br>
 
-3️⃣ Authorization & Role-Based Access Control
-✅ Role-Based Authorization
-✅ Claim-Based Authorization
-✅ Secured API Endpoints
+3️⃣ Authorization & Role-Based Access Control<br>
+✅ Role-Based Authorization<br>
+✅ Claim-Based Authorization<br>
+✅ Secured API Endpoints<br>
 
-4️⃣ Security & Advanced Features
-✅ Hashed Password (BCrypt)
-✅ Reauthentication with Refresh Token
-✅ Rate Limiting (Throttle Middleware)
-✅ Logging & Exception Handling
+4️⃣ Security & Advanced Features<br>
+✅ Hashed Password (BCrypt)<br>
+✅ Reauthentication with Refresh Token<br>
+✅ Rate Limiting (Throttle Middleware)<br>
+✅ Logging & Exception Handling<br>
