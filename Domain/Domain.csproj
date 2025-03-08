@@ -7,8 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\Auth\" />
-    <Folder Include="DTOs\Role\" />
     <Folder Include="Entities\Auth\" />
     <Folder Include="Entities\Role\" />
     <Folder Include="Entities\Token\" />
