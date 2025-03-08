@@ -1,1 +1,58 @@
+# Visual Studio ve Rider
 .vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.code-workspace
+*.vsidx
+*.vscode/
+
+# Bin ve obj
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.ilk
+
+# NuGet
+packages/
+!packages/repositories.config
+
+# NPM / Yarn
+node_modules/
+yarn.lock
+package-lock.json
+
+# Local database dosyaları
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# EF Core migration
+Migrations/
+
+# Kullanıcıya özel dosyalar
+*.env
+*.secrets.json
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+
+
+# Uygulama logları
+logs/
+*.log
+
+# Kestrel, IIS ve diğer HTTP sunucu logları
+*.pid
+*.csproj.user
+
+
+
